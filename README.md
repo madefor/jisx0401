@@ -4,7 +4,11 @@ JSON API for JIS X 0401, Prefecture Idetification Code (都道府県コード).
 
 ## Usage
 
-To get JSON of prefecture code, access http://madefor.github.io/jisx0401/api/v1/jisx0401.json .
+You can use 3 JSON APIs of Prefecture Code.
+
+* Prefecture Code and Prefecture Name (in Japanese Kanji): http://takahashim.github.io/jisx0401/api/v1/jisx0401-ja.json
+* Prefecture Code and Prefecture Name (in English): http://takahashim.github.io/jisx0401/api/v1/jisx0401-en.json
+* Prefecture Code and Prefecture Name (in Japanese Kanji and English as Object): http://takahashim.github.io/jisx0401/api/v1/jisx0401.json
 
 ## License
 
