@@ -1,16 +1,14 @@
 # JIS X 0401 API
 
-[English](./README.en.md)
-
-JIS X 0401で規定されている都道府県コードを返すJSON APIです。
+JSON API for JIS X 0401, Prefecture Idetification Code (都道府県コード).
 
 ## Usage
 
-都道府県コードが入った3種類のJSON APIがあります。
+You can use 3 JSON APIs of Prefecture Code.
 
-* 都道府県コードと都道府県名(日本語): https://madefor.github.io/jisx0401/api/v1/jisx0401-ja.json
-* 都道府県コードと都道府県名(英語): https://madefor.github.io/jisx0401/api/v1/jisx0401-en.json
-* 都道府県コードと都道府県名(日本語・英語のオブジェクト): https://madefor.github.io/jisx0401/api/v1/jisx0401.json
+* Prefecture Code and Prefecture Name (in Japanese Kanji): https://madefor.github.io/jisx0401/api/v1/jisx0401-ja.json
+* Prefecture Code and Prefecture Name (in English): https://madefor.github.io/jisx0401/api/v1/jisx0401-en.json
+* Prefecture Code and Prefecture Name (in Japanese Kanji and English as Object): https://madefor.github.io/jisx0401/api/v1/jisx0401.json
 
 ## License
 
